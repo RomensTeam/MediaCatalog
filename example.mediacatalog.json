@@ -1,0 +1,50 @@
+{
+	"mediacatalog_item_protocol": 0.1,
+	"locales": [
+		"en",
+		"ru"
+	],
+	"type": "IMAGE",
+	"original_locale": "en",
+	"title": {
+		"en": "Example",
+		"ru": "Пример"
+	},
+	"description": {
+		"en": "Example description",
+		"ru": "Пример описания"
+	},
+	"adult": false,
+	"items": [
+		{
+			"url": "https://fakeimg.pl/1920x1080/?text=EN%201",
+			"hash": "81551b155b40b1753639e25f2f89a5a7",
+			"meta": {
+				"height": "1080",
+				"width": "1920",
+				"content-length": 15380,
+				"content-type": "image/png"
+            }
+		},
+		{
+			"url": "https://fakeimg.pl/1080x1920/?text=EN%202",
+			"hash": "425936f5c194d68d521946c90eadf237",
+			"meta": {
+				"height": "1920",
+				"width": "1080",
+				"content-length": 19107,
+				"content-type": "image/png"
+            }
+		},
+		{
+			"url": "https://fakeimg.pl/1080x1080/?text=EN%203",
+			"hash": "6329fa0ed7bc88d7bda53b659d76da39",
+			"meta": {
+				"height": "1080",
+				"width": "1080",
+				"content-length": 14551,
+				"content-type": "image/png"
+            }
+		}
+	]
+}
